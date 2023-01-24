@@ -1,2 +1,2 @@
 # Pandas-challenge
-city school analyzations
+city school analyzations with Pandas
